@@ -22,8 +22,9 @@ Updated December, 2025
 - **Dr. Mona Wells**, Researcher
   
 ## Timeline
-- **Apr 2024**: R³I is founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
-- **Dec 2025**: R³P new status established. Output: [M. Wells (2025) in Water Research](https://www.sciencedirect.com/science/article/abs/pii/S0043135425009595)
+- **Apr 2024**: R³I founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
+- **Oct 2025**: Dr. Wells publication: [M. Wells (2025) in Water Research](https://www.sciencedirect.com/science/article/abs/pii/S0043135425009595)
+- **Dec 2025**: R³P status established.
  <br/>  
 <img src="RoninRyuResearchInitiative_Logo_Apr2024.png" alt="Rōnin-Ryū original logo" width="45%" height="45%">
 Rōnin Ryū original logo © Thaicia Stona de Almeida, 2024: <br/>
