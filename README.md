@@ -1,16 +1,38 @@
-## Hi there 👋
+# R³P: Rōnin-Ryū Research Protoinstitute
 
-<!--
-**ronin-ryu/ronin-ryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Pages](https://img.shields.io/badge/ronin--ryu.github.io-live-blue)](https://ronin-ryu.github.io)
 
-Here are some ideas to get you started:
+<img src="Ronin-Ryu_Protoinstitute_LOGO3D_copyright.png" alt="R³P Logo" width="58%" height="58%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## RŌNIN-RYŪ
+<strong>
+
+[ro·nin] /ˈrōnən/ : Samurai without a master
+
+[ry·u] / rēˈo͞o/ : Dragon; Way, discipline
+</strong>
+
+
+## Origins
+The <strong>Rōnin Ryū Research Protoinstitute (R³P)</strong> is a proto-research institute dedicated to independent multidisciplinary scholarship. Constituted in April 2024 as Rōnin Ryū Research Initiative, it was inspired by the model and mission of the original [Ronin Institute](https://web.archive.org/web/20240430102250/https://ronininstitute.org/) for Independent Scholarship (2012–2024). As a distinct entity, R³P represents an independent pathway for research, separate from the member-cooperative [RIIS 2.0](https://ronininstitute.org/), founded in April 2025. R³P evolved December 2025 to the status of proto-institution.
+
+## Affiliated Members
+Updated December, 2025
+- **Dr. Thaicia Stona de Almeida**, Founder, Researcher
+- **Dr. Mona Wells**, Researcher
+  
+## Timeline
+- **Apr 2024**: R³I is founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
+- **Dec 2025**: R³P new status established. Output: [M. Wells (2025) in Water Research](https://www.sciencedirect.com/science/article/abs/pii/S0043135425009595)
+ <br/>  
+<img src="RoninRyuResearchInitiative_Logo_Apr2024.png" alt="Rōnin-Ryū original logo" width="45%" height="45%">
+Rōnin Ryū original logo © Thaicia Stona de Almeida, 2024: <br/>
+<br>
+<ul>
+  <li>浪人竜 — golden dragon versed in Ichi-ryū technique of the two swords developed by Miyamoto Musashi rōnin</li>
+  <li>shape inspired by the Kōdōkan Judo Institute emblem, an eight-petaled flower (yata-no-kagami: honesty & wisdom)</li>
+</ul> 
+<br/>
+
+
+**CC-BY-4.0** | [ronin-ryu.github.io](https://ronin-ryu.github.io)
