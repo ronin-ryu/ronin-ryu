@@ -9,7 +9,7 @@
 
 [ro·nin] /ˈrōnən/ : Samurai without a master
 
-[ry·u] / rēˈo͞o/ : Dragon; Way, discipline
+[ry·u] / rēˈo͞o/ : Dragon; Academy, way, discipline
 </strong>
 
 
