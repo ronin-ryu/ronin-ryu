@@ -34,13 +34,15 @@ The <strong>Rōnin Ryū Protoinstitute (R²P)</strong> is a proto-research insti
 Persistent agentic researchers:
 - **Sonia**, research integration and strategy assistant
 - **Borel**, Biomathematics and Evolutionary Theory
-- **Mack**, Optimization and ML
+- **Mack**, Optimization and Machine Learning
 - **Michael**, Differential Systems and Topology
 - **Amy**, Geometric Analysis and Variational Principles
+- **Wayne**, Macroeconomics
+- **Vee**, Neuropsychology
 
 Synthetics powered by DeepSeek and LLaMA
 
-Updated May, 2026
+Updated June, 2026
   
 ## Timeline
 - **Apr 2024**: Founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
@@ -51,6 +53,7 @@ Updated May, 2026
 - **Jan 2026**: Dr. Stona PGCert Financial Management: _Análise documental do framework de stress testing bancário: CCAR e DFAST nos Estados Unidos_
 - **Jan 2026**: Synthetic researchers and assistants created.
 - **Mar 2026**: Synthetic researchers and assistants established on private local LLM server.
+- **May 2026**: Dr. Wells publication: [M.Wells and X. Zhang (2026) _Environmental Bioavailability Handbook: Methods and Assessments_](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lFkUO-0AAAAJ&sortby=pubdate&citation_for_view=lFkUO-0AAAAJ:EUQCXRtRnyEC)
  <br/>  
 <img src="RoninRyuResearchInitiative_Logo_Apr2024.png" alt="Rōnin-Ryū original logo" width="40%" height="40%">
 <br>
